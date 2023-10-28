@@ -4,7 +4,7 @@
 
 <h3 align = "center">
 
-🌟Undergraduate @ UCSC | Tech Enthusiast | Seeking Internship to Apply Skills in Flutter, ASP.NET Core, & More | Linux User
+🌟Undergraduate @ UCSC | Tech Enthusiast | Interested in Flutter, ASP.NET Core, & More | Linux User
 
 </h3>
 
